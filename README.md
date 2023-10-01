@@ -5,27 +5,27 @@ Productivity and time management App
 The Eat That Frog! Mobile App is designed to help you boost your productivity and time management skills by implementing the key concepts outlined in Brian Tracy's book, "Eat That Frog!" This app provides a practical and user-friendly interface to assist you in prioritizing tasks, setting goals, and overcoming procrastination.
 
 # Features
-Eat the Ugliest Frog First: Prioritize and tackle your most challenging tasks right away.
-High-Value Task Tracking: Identify and track tasks that have the most significant impact on your goals.
-Goal Setting: Set clear and SMART goals to guide your daily activities.
-Task Planning: Create to-do lists and schedule tasks for efficient time management.
-80/20 Rule: Focus on the tasks that yield the greatest results with minimal effort.
-Single-Tasking: Promote focused work by discouraging multitasking.
-ABCDE Method: Categorize tasks by priority and address them accordingly.
-Consequences Consideration: Evaluate the long-term impact of your actions.
-Key Constraints Analysis: Identify and eliminate obstacles hindering your progress.
-Technology Use: Utilize productivity tools while avoiding distractions.
-Workspace Organization: Maintain an organized workspace for better efficiency.
-Thorough Preparation: Gather resources and information before starting a task.
-Visualization: Use mental imagery techniques to stay motivated and focused.
-Saying No: Develop the ability to decline tasks that don't align with your goals.
-Procrastination Prevention: Combat procrastination by taking immediate action.
-Resistance Overcoming: Push through resistance and discomfort to complete vital tasks.
-Time Management: Allocate dedicated time blocks for tasks and stick to your schedule.
-Continuous Review and Adaptation: Assess your progress and adjust your plans accordingly.
-Self-Discipline: Cultivate the habit of doing what needs to be done, even when motivation wanes.
-Avoid Perfectionism: Strive for excellence without getting bogged down by perfection.
-Self-Care: Maintain your health and well-being to ensure sustained productivity.
++ Eat the Ugliest Frog First: Prioritize and tackle your most challenging tasks right away.
++ High-Value Task Tracking: Identify and track tasks that have the most significant impact on your goals.
++ Goal Setting: Set clear and SMART goals to guide your daily activities.
++ Task Planning: Create to-do lists and schedule tasks for efficient time management.
++ 80/20 Rule: Focus on the tasks that yield the greatest results with minimal effort.
++ Single-Tasking: Promote focused work by discouraging multitasking.
++ ABCDE Method: Categorize tasks by priority and address them accordingly.
++ Consequences Consideration: Evaluate the long-term impact of your actions.
++ Key Constraints Analysis: Identify and eliminate obstacles hindering your progress.
++ Technology Use: Utilize productivity tools while avoiding distractions.
++ Workspace Organization: Maintain an organized workspace for better efficiency.
++ Thorough Preparation: Gather resources and information before starting a task.
++ Visualization: Use mental imagery techniques to stay motivated and focused.
++ Saying No: Develop the ability to decline tasks that don't align with your goals.
++ Procrastination Prevention: Combat procrastination by taking immediate action.
++ Resistance Overcoming: Push through resistance and discomfort to complete vital tasks.
++ Time Management: Allocate dedicated time blocks for tasks and stick to your schedule.
++ Continuous Review and Adaptation: Assess your progress and adjust your plans accordingly.
++ Self-Discipline: Cultivate the habit of doing what needs to be done, even when motivation wanes.
++ Avoid Perfectionism: Strive for excellence without getting bogged down by perfection.
++ Self-Care: Maintain your health and well-being to ensure sustained productivity.
 # Installation
 To use the Eat That Frog! Mobile App, follow these steps:
 
