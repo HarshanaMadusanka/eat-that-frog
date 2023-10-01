@@ -1,4 +1,4 @@
-# eat-that-frog
+# Eat-that-frog
 Productivity and time management App
 
 # Overview
